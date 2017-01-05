@@ -1,1 +1,1 @@
-# weixin_pay_sdk
+# weixin_JS_SDK
